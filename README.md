@@ -87,6 +87,4 @@ Les fichiers sont traités par l'application; ne téléversez pas de données se
 
 Consultez [CONTRIBUTING.md](CONTRIBUTING.md) pour préparer l'environnement et exécuter les tests.
 
-## Sécurité
 
-Consultez [SECURITY.md](SECURITY.md) pour signaler un problème de sécurité de manière responsable.
