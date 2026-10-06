@@ -2,8 +2,6 @@
 
 Application locale en français pour consulter, nettoyer et exporter des fichiers CSV et Excel avec Streamlit.
 
-> Le projet n'est pas encore publié sur GitHub. Aucune licence n'a été choisie : ajoutez une licence avant de distribuer le logiciel ou d'accepter des contributions externes.
-
 ## Fonctionnalités
 
 - Import de fichiers CSV, XLSX et XLS.
