@@ -1,0 +1,27 @@
+[theme]
+base = "light"
+primaryColor = "#0B6E69"
+backgroundColor = "#FAF8F3"
+secondaryBackgroundColor = "#EEF2EF"
+textColor = "#1E2C2B"
+borderColor = "#D6DFDA"
+codeBackgroundColor = "#EEF2EF"
+chartCategoricalColors = ["#0B6E69", "#D46A4F", "#4E7B8E", "#C28A2C", "#68866B", "#806B8D"]
+greenColor = "#2D715B"
+orangeColor = "#A9543C"
+yellowColor = "#A87312"
+blueColor = "#2E7185"
+font = "'IBM Plex Sans':https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"
+headingFont = "'IBM Plex Sans':https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500;600;700&display=swap"
+codeFont = "'JetBrains Mono':https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap"
+baseFontSize = 15
+baseRadius = "4px"
+buttonRadius = "4px"
+showWidgetBorder = true
+showSidebarBorder = true
+linkUnderline = false
+
+[theme.sidebar]
+backgroundColor = "#E7EFEA"
+secondaryBackgroundColor = "#DCE7E1"
+borderColor = "#CFDAD4"
