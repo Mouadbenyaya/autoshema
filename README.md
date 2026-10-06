@@ -2,8 +2,6 @@
 
 Application locale en français pour consulter, nettoyer et exporter des fichiers CSV et Excel avec Streamlit.
 
-> Le projet n'est pas encore publié sur GitHub. Aucune licence n'a été choisie : ajoutez une licence avant de distribuer le logiciel ou d'accepter des contributions externes.
-
 ## Fonctionnalités
 
 - Import de fichiers CSV, XLSX et XLS.
@@ -69,6 +67,10 @@ test_data_store.py Tests de l'identification des fichiers importés
 
 Les fichiers sont traités par l'application; ne téléversez pas de données sensibles dans une instance que vous ne contrôlez pas. Lors d'un hébergement, l'exploitant du serveur peut accéder aux fichiers traités et aux données temporaires sur cette machine.
 
-## Contribuer
+
 
 Consultez [CONTRIBUTING.md](CONTRIBUTING.md) pour préparer l'environnement et exécuter les tests.
+
+## Sécurité
+
+Consultez [SECURITY.md](SECURITY.md) pour signaler un problème de sécurité de manière responsable.
